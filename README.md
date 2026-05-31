@@ -1,5 +1,5 @@
 # Secure-Authentication-System
-```markdown
+
 # 🔐 Secure Authentication System
 
 > A console-based user authentication system in C++ with registration, login, account lockout protection, password hashing, and a separate admin panel.
